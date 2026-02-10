@@ -1,4 +1,5 @@
 ♻️ WasteBounty
+
 AI-Powered Community Cleanup & Reward System
 📌 Overview
 WasteBounty is a full-stack web application designed to promote responsible waste segregation and community cleanup through a reward-based system. The platform uses AI-powered image analysis to verify waste types and incentivize users with points, leaderboards, and rewards.
